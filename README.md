@@ -1,4 +1,4 @@
-## Complex Matrix Calculator
+# Complex Matrix Calculator
 
 Uygulamanın amacı, karmaşık sayılar içeren matrisler üzerinde matematiksel işlemleri gerçekleştirmektir. **C++**'da **Operator Overloading** konusu üzerinde alıştırma yapmak için hazırlanmıştır.
 
