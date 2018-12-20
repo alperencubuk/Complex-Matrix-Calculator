@@ -150,7 +150,7 @@ ostream& operator<<(ostream& os, const Matris& dizi) {
 	for(int i=0;i<dizi.satir;i++) {
 		for(int j=0;j<dizi.sutun;j++)
 			os<<dizi.sayilar[i][j]<<" ";
-		cout<<endl;
+		os<<endl;
 	}
 	return os;
 }
